@@ -1,5 +1,5 @@
 # angular2-meteor-step.5to6
-請先安裝 Meteor 指令如下:
+安裝 Meteor 指令如下:
 
 $ curl https://install.meteor.com/ | sh
 
