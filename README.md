@@ -357,7 +357,7 @@ export class PartyDetails {
 
 # Summary – 概要說明
 
-1.	使用Angular 2的[(ngModel)] 兩步快速 Data-Bing。
+1.	使用Angular 2的[(ngModel)] 兩步快速 Data-Bind。
 
 2.	使用資料模型快速更新資料。
 
