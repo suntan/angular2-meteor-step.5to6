@@ -1,3 +1,4 @@
-import {loadParties} from './load-parties.ts';
+import {loadParties} from './load-parties';
  
 Meteor.startup(loadParties);
+

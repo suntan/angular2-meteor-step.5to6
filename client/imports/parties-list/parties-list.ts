@@ -20,3 +20,4 @@ export class PartiesList {
     Parties.remove(party._id);
   }
 }
+

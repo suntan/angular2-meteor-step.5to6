@@ -1,4 +1,4 @@
-import {Parties} from '../collections/parties.ts';
+import {Parties} from '../collections/parties';
  
 export function loadParties() {
   if (Parties.find().count() === 0) {
