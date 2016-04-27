@@ -84,7 +84,9 @@ import {Component, provide} from 'angular2/core';
 
 import {bootstrap} from 'angular2-meteor-auto-bootstrap';
 
-import {ROUTER_PROVIDERS, ROUTER_DIRECTIVES, RouteConfig, APP_BASE_HREF} from 'angular2/router';
+import {ROUTER_PROVIDERS, ROUTER_DIRECTIVES, RouteConfig } from 'angular2/router';
+
+import {APP_BASE_HREF} from 'angular2/platform/common';
 
 import {PartiesList} from './imports/parties-list/parties-list';
 
